@@ -1,0 +1,7 @@
+#Wrapper {
+    background-color: #e2e2e2 !important;
+    background-image: none !important;
+}
+#Wrapper.Night {
+    background-color: #22303f !important;
+}
