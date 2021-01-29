@@ -10,3 +10,10 @@
 - 地址栏输入 `chrome://extensions/`
 - 右上角开启“开发者模式”
 - 左上角“加载已解压的扩展程序”，选择下载的 `v2ex-no-background` 目录
+
+## 对比图
+- 原始：
+![](https://i.loli.net/2020/12/30/p2eCMbBEjPnZ9G1.png)
+
+- 启用扩展后：
+![](https://i.loli.net/2020/12/30/eIAwxXfMGF83vD1.png)
