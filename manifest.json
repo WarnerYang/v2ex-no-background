@@ -12,7 +12,8 @@
     "content_scripts": [
         {
             "matches": [
-                "https://www.v2ex.com/*"
+                "https://www.v2ex.com/*",
+                "https://v2ex.com/*"
             ],
             "css": ["custom.css"]
         }
